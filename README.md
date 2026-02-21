@@ -148,9 +148,9 @@ Once the app starts, upload a PDF and begin chatting with it.
 
 ## 👨‍🎓 Author
 
-**Mahesh**  
-MSc Artificial Intelligence  
-National College of Ireland  
+****GOUTHAM ALAKUNTLA****
+Gen -AI Developer( BTech)
+Rajiv Gandhi University of Knowledge Technologies Basar
 
 ---
 
